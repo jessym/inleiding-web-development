@@ -1,0 +1,13 @@
+#button {
+  display: inline-block;
+  color: darkred;
+  border: 2px solid darkred;
+  background-color: crimson;
+  padding: 20px;
+  font-size: 20px;
+}
+#button:hover {
+  background-color: red;
+  border-radius: 50px;
+  text-decoration: none;
+}

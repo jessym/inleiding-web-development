@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  font-size: 30px;
+}
+
+div {
+  color: white;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}

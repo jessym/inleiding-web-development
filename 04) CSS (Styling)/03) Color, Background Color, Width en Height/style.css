@@ -1,0 +1,14 @@
+div {
+  color: red;
+  background-color: pink;
+  width: 200px;
+  height: 200px;
+}
+
+span {
+  color: green;
+  background-color: lightgreen;
+  /* Below doesn't work because SPAN is an inline element */
+  width: 200px;
+  height: 200px;
+}

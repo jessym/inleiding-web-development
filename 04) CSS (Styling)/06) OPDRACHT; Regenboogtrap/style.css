@@ -1,0 +1,24 @@
+#staircase {
+  text-align: right;
+}
+
+#blue-step {
+  width: 80px;
+  height: 80px;
+  background-color: blue;
+}
+#red-step {
+  width: 160px;
+  height: 80px;
+  background-color: red;
+}
+#green-step {
+  width: 240px;
+  height: 80px;
+  background-color: green;
+}
+
+.inverted {
+  color: white;
+  background-color: black;
+}

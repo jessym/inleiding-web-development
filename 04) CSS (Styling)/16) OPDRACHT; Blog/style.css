@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:300');
+
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #2d3436;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px black;
+}
+header h1 {
+    margin: 0;
+    color: #ff7675;
+    font-family: 'Work Sans', sans-serif;
+    text-shadow: 2px 2px 4px black;
+}
+
+main {
+    padding: 80px;
+}
+article {
+    background-color: #dfe6e9;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 4px silver;
+}
+article:hover {
+    box-shadow: 2px 2px 4px grey;
+}
+article a {
+    color: #ff7675;
+}
+
+footer {
+    background-color: #2d3436;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px black;
+}
+footer span {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
